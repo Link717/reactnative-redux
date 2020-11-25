@@ -13,5 +13,4 @@
 - Redux를 통한 CRUD State 관리
 
 ## 🎁 구현 화면
-
-![](https://images.velog.io/images/link717/post/fa071bfd-bce1-4776-937a-5793808f035d/Screen_Recording_20201125-122432_Expo.gif)
+<img src="https://user-images.githubusercontent.com/69239888/100181126-f1f6b880-2f1c-11eb-9fd2-a808820876de.gif" width="50%"></img>
